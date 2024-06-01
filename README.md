@@ -1,6 +1,6 @@
 # Описание проекта "GoProtect" #
 Доброго дня! 
-<p><img src="https://papik.pro/uploads/posts/2023-01/1674235029_papik-pro-p-figurnie-konki-risunok-5.jpg" alt="коньки" style="width:400px;"/></p>
+<p><img src="https://papik.pro/uploads/posts/2023-01/1674235029_papik-pro-p-figurnie-konki-risunok-5.jpg" alt="коньки"/></p>
 
 В этом проекте мы попробуем создать модель, прогнозирующую вероятность успешного выполнения элемента/набора элементов. 
 
