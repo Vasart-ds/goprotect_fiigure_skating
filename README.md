@@ -1,6 +1,6 @@
 # Описание проекта "GoProtect" #
 Доброго дня! 
-![коньки](https://indasil.club/uploads/posts/2022-11/1669300995_37-indasil-club-p-figurnie-konki-raskraska-pinterest-46.jpg)
+<img src="https://indasil.club/uploads/posts/2022-11/1669300995_37-indasil-club-p-figurnie-konki-raskraska-pinterest-46.jpg)" alt="коньки" style="width:200px;"/>
 В этом проекте мы попробуем создать модель, прогнозирующую вероятность успешного выполнения элемента/набора элементов. 
 
 <details >
