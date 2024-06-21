@@ -262,10 +262,10 @@ numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
 oauthlib==3.2.2
 olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
 opencv-contrib-python==4.9.0.80
-opencv-python==4.9.0.80
+opencv-python
 opendatalab==0.0.10
 openmim==0.3.9
-openpyxl==3.1.2
+openpyxl
 openxlab==0.0.34
 opt-einsum==3.3.0
 optree==0.11.0
@@ -390,7 +390,7 @@ Scrapy @ file:///C:/b/abs_9fn69i_d86/croot/scrapy_1677738199744/work
 seaborn==0.13.2
 semver @ file:///tmp/build/80754af9/semver_1603822362442/work
 Send2Trash @ file:///C:/b/abs_08dh49ew26/croot/send2trash_1699371173324/work
-sentence-transformers==2.2.2
+sentence_transformers==2.2.2
 sentencepiece==0.1.99
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 sip @ file:///C:/b/abs_edevan3fce/croot/sip_1698675983372/work
@@ -420,7 +420,7 @@ SQLAlchemy @ file:///C:/b/abs_876dxwqqu8/croot/sqlalchemy_1705089154696/work
 srsly==2.4.7
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 statsmodels @ file:///C:/b/abs_7bth810rna/croot/statsmodels_1689937298619/work
-streamlit==0.86.0
+streamlit
 sympy @ file:///C:/b/abs_82njkonm7f/croot/sympy_1701397685028/work
 tables @ file:///C:/b/abs_411740ajo7/croot/pytables_1705614883108/work
 tabulate @ file:///C:/b/abs_21rf8iibnh/croot/tabulate_1701354830521/work
@@ -455,12 +455,12 @@ toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
 tomlkit @ file:///C:/Windows/TEMP/abs_3296qo9v6b/croots/recipe/tomlkit_1658946894808/work
 toolz @ file:///C:/b/abs_cfvk6rc40d/croot/toolz_1667464080130/work
-torch==2.0.1
-torchvision==0.15.2
+torch
+torchvision
 tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
 tqdm==4.65.2
 traitlets @ file:///C:/b/abs_e5m_xjjl94/croot/traitlets_1671143896266/work
-transformers==4.31.0
+transformers
 Twisted @ file:///C:/b/abs_f1pc_rieoy/croot/twisted_1683796899561/work
 twisted-iocpsupport @ file:///C:/ci/twisted-iocpsupport_1646798932792/work
 typeguard==2.13.3
@@ -502,3 +502,4 @@ zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
 zope.interface @ file:///C:/ci/zope.interface_1625036252485/work
 zstandard==0.19.0
+pip==24.1
